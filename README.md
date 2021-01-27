@@ -8,4 +8,3 @@ Advanced topics in the development and deployment of web-based applications. Top
      <li>Week 2</li>
      <li>Assignment 2</li>
 </ul>
-
