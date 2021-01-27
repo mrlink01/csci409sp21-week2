@@ -7,4 +7,4 @@ Advanced topics in the development and deployment of web-based applications. Top
      <li><a href="https://coastal.edu">Coastal Carolina University</a></li>
      <li>Week 2</li>
      <li>Assignment 2</li>
-</ul>
+</ul> 
