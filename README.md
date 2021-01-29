@@ -1,10 +1,6 @@
-<h1>CSCI 409-Advanced Web Application Development</h1>
-<h2>Michael Link</h2>
-<p>
+# CSCI 409-Advanced Web Application Development
+## Michael Link</h2>
 Advanced topics in the development and deployment of web-based applications. Topicsinclude advanced middleware programming concepts and development of dynamic websites. Students will write a full-scale web application as their final project.
-</p>
-<ul>
-     <li><a href="https://coastal.edu">Coastal Carolina University</a></li>
-     <li>Week 2</li>
-     <li>Assignment 2</li>
-</ul> 
+- [Coastal Carolina University](https://coastal.edu)
+- Week 2
+- Assignment 2 
